@@ -1,7 +1,7 @@
 # TDA to Dynamics
  
 
-# Topological Data Analysis Application to Dynamical System Time Series and Images
+# Topological Data Analysis Approach to Time Series and Shape Analysis of Dynamical System
 ## Screenshot
 ![Project Screenshot](chaos.png)
 **Repository Overview**  
@@ -37,4 +37,4 @@ The Python folder contains Jupyter notebooks that analyze topological features o
 ## Citation
 
 If you use any files from this repository, please cite the associated publication:
-> Shah, W. H. _"Topological Data Analysis Application to Dynamical System Time Series and Images."_
+> Shah, W. H. _"Topological Data Analysis Approach to Time Series and Shape Analysis of Dynamical System."_
