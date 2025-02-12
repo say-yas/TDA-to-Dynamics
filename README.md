@@ -5,7 +5,7 @@
 ## Screenshot
 ![Project Screenshot](chaos.png)
 **Repository Overview**  
-This repository accompanies the publication, _"Topological Data Analysis Application to Dynamical System Time Series and Images,"_ providing implementations of two scenarios that correspond to the research presented in the paper. Each scenario offers tools and instructions for analyzing dynamical systems using Topological Data Analysis (TDA) methods.
+This repository accompanies the publication, _"Topological Data Analysis Approach to Time Series and Shape Analysis of Dynamical System,"_ providing implementations of two scenarios that correspond to the research presented in the paper. Each scenario offers tools and instructions for analyzing dynamical systems using Topological Data Analysis (TDA) methods.
 
 ## Scenarios and Setup Instructions
 
